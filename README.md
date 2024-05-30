@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data & everything about it
 - 🌱 I’m currently learning Selenium & Cypress
 - 💞️ I’m looking to collaborate on LinkedIN
-- 📫 How to reach me - singhswarnima1996@gmail.com
+- 📫 How to reach me - www.linkedin.com/in/swarnima-singh-dqa
 - ⚡ Fun fact: I love reading & my current read is EMMA by Jane Austen. 
 
 <!---
